@@ -4,4 +4,4 @@ server:
 
 spring:
   application:
-    name: Cofig-Server
+    name: Config-Server
